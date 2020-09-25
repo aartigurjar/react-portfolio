@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name": "Aarti Gurjar",
+    "occupation": "Front End Web Developer",
+    "description": "I create fun, innovative, accessible, and responsive websites & web apps.",
+    "image": "aarti.jpg",
+    "bio": "My name is Aarti, I'm a Front End Developer. I try to write maintainable, performant and widely compatible markup and styles. I have a good eye for design, can create compelling visual artefacts and love to develop in HTML, CSS, JS, React and related technologies. I am inclined towards learning new technologies and embracing change. I am open to whatever technology, processes or techniques which will improve my ability to deliver high quality software as quickly as possible. Currently I'm actively applying for jobs. ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "aartigj@gmail.com",
+    "phone": "+61 413142744",
+    "address": {
+      "street": "7/15 Rosstown Road",
+      "city": "Melbourne",
+      "state": "VIC",
+      "zip": "3163"
+    },
+    
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/aarti_codes",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aarti-gurjar-prajapati-6624a787/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aarti.codes/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aartigurjar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    
+    "education": [
+      {
+        "school": "INCO Academy, Sydney",
+        "degree": "Get Into Tech Course",
+        "graduated": "August 2020",
+        "description": "Worked on WordPress, SEO & Digital Marketing Skills"
+      },
+
+      {
+        "school": "Udacity",
+        "degree": "Front End Developer Nanodegree",
+        "graduated": "December 2018",
+        "description": "Received Google Scholarship in 2018 to learn front end development."
+      },
+
+      {
+        "school": "PTU Jalandhar, India",
+        "degree": "Electronics & Communication Engg.",
+        "graduated": "April 2014",
+        "description": "Studied Electronics & Communication during college."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with React, deployed on Firebase",
+        "image": "hulu-clone.jpg",
+        "url": "https://hulu-clone-b7055.web.app/"
+      },
+      {
+        "title": "Weather App",
+        "category": "Weather App built using React, deployed on Firebase",
+        "image": "weather-app.jpg",
+        "url": "https://weather-app-eb28e.web.app/"
+      },
+      {
+        "title": "Responsive Sign Up Form",
+        "category": "Responsive Sign Up Form using React Hook Form",
+        "image": "signup-form.jpg",
+        "url": "https://sign-up-form-a9a8c.web.app/"
+      }
+    ]
+  }
+}
